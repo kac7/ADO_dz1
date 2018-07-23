@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ado_dz1_2", "Ado_dz1\Ado_dz1_2.csproj", "{243D8E87-EFD1-4699-8286-26CA706CE71A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ado.dz1_3", "Ado.dz1_3\Ado.dz1_3.csproj", "{39EB69CE-79BA-42A1-99A4-BB88F6593308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ado.dz1_4", "Ado.dz1_4\Ado.dz1_4.csproj", "{8FE3E2F8-1C0F-441A-85B8-17C3664B0030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{243D8E87-EFD1-4699-8286-26CA706CE71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243D8E87-EFD1-4699-8286-26CA706CE71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243D8E87-EFD1-4699-8286-26CA706CE71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243D8E87-EFD1-4699-8286-26CA706CE71A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39EB69CE-79BA-42A1-99A4-BB88F6593308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39EB69CE-79BA-42A1-99A4-BB88F6593308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39EB69CE-79BA-42A1-99A4-BB88F6593308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39EB69CE-79BA-42A1-99A4-BB88F6593308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE3E2F8-1C0F-441A-85B8-17C3664B0030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE3E2F8-1C0F-441A-85B8-17C3664B0030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE3E2F8-1C0F-441A-85B8-17C3664B0030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE3E2F8-1C0F-441A-85B8-17C3664B0030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE0B7727-D620-4BFF-AA0B-EA415CFFC97D}
+	EndGlobalSection
+EndGlobal

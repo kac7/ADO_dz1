@@ -1,0 +1,15 @@
+C:\Users\Кас\documents\visual studio 2017\Projects\Ado_dz1\Ado.dz1_4\bin\Debug\Ado.dz1_4.exe.config
+C:\Users\Кас\documents\visual studio 2017\Projects\Ado_dz1\Ado.dz1_4\bin\Debug\Ado.dz1_4.exe
+C:\Users\Кас\documents\visual studio 2017\Projects\Ado_dz1\Ado.dz1_4\bin\Debug\Ado.dz1_4.pdb
+C:\Users\Кас\documents\visual studio 2017\Projects\Ado_dz1\Ado.dz1_4\obj\Debug\Ado.dz1_4.csprojResolveAssemblyReference.cache
+C:\Users\Кас\documents\visual studio 2017\Projects\Ado_dz1\Ado.dz1_4\obj\Debug\MainWindow.g.cs
+C:\Users\Кас\documents\visual studio 2017\Projects\Ado_dz1\Ado.dz1_4\obj\Debug\App.g.cs
+C:\Users\Кас\documents\visual studio 2017\Projects\Ado_dz1\Ado.dz1_4\obj\Debug\Ado.dz1_4_MarkupCompile.cache
+C:\Users\Кас\documents\visual studio 2017\Projects\Ado_dz1\Ado.dz1_4\obj\Debug\Ado.dz1_4_MarkupCompile.lref
+C:\Users\Кас\documents\visual studio 2017\Projects\Ado_dz1\Ado.dz1_4\obj\Debug\MainWindow.baml
+C:\Users\Кас\documents\visual studio 2017\Projects\Ado_dz1\Ado.dz1_4\obj\Debug\Ado.dz1_4.g.resources
+C:\Users\Кас\documents\visual studio 2017\Projects\Ado_dz1\Ado.dz1_4\obj\Debug\Ado.dz1_4.Properties.Resources.resources
+C:\Users\Кас\documents\visual studio 2017\Projects\Ado_dz1\Ado.dz1_4\obj\Debug\Ado.dz1_4.csproj.GenerateResource.cache
+C:\Users\Кас\documents\visual studio 2017\Projects\Ado_dz1\Ado.dz1_4\obj\Debug\Ado.dz1_4.csproj.CoreCompileInputs.cache
+C:\Users\Кас\documents\visual studio 2017\Projects\Ado_dz1\Ado.dz1_4\obj\Debug\Ado.dz1_4.exe
+C:\Users\Кас\documents\visual studio 2017\Projects\Ado_dz1\Ado.dz1_4\obj\Debug\Ado.dz1_4.pdb
